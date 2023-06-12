@@ -1,4 +1,4 @@
-# datasources
+# timeseriesdatasources
 
 [![PyPI - Version](https://img.shields.io/pypi/v/timeseriesdatasources.svg)](https://pypi.org/project/timeseriesdatasources)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/timeseriesdatasources.svg)](https://pypi.org/project/timeseriesdatasources)
@@ -13,9 +13,9 @@
 ## Installation
 
 ```console
-pip install datasources
+pip install timeseriesdatasources
 ```
 
 ## License
 
-`datasources` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+`timeseriesdatasources` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
