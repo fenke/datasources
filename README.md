@@ -1,7 +1,7 @@
 # datasources
 
-[![PyPI - Version](https://img.shields.io/pypi/v/datasources.svg)](https://pypi.org/project/datasources)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/datasources.svg)](https://pypi.org/project/datasources)
+[![PyPI - Version](https://img.shields.io/pypi/v/timeseriesdatasources.svg)](https://pypi.org/project/timeseriesdatasources)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/timeseriesdatasources.svg)](https://pypi.org/project/timeseriesdatasources)
 
 -----
 

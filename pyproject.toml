@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "datasources"
+name = "timeseriesdatasources"
 dynamic = ["version"]
 description = ''
 readme = "README.md"
@@ -11,7 +11,7 @@ requires-python = ">=3.7"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "fenke", email = "fenke@live.com" },
+  { name = "fenke", email = "fenkemeijer@gmail.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -27,9 +27,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/unknown/datasources#readme"
-Issues = "https://github.com/unknown/datasources/issues"
-Source = "https://github.com/unknown/datasources"
+Documentation = "https://github.com/fenke/datasources#readme"
+Issues = "https://github.com/fenke/datasources/issues"
+Source = "https://github.com/fenke/datasources"
 
 [tool.hatch.version]
 path = "src/datasources/__about__.py"
